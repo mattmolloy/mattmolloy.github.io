@@ -1,2 +1,4 @@
 name: mattmolloy
 markdown: kramdown
+
+theme: jekyll-theme-cayman
